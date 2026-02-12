@@ -6,7 +6,7 @@ PythonAutoRomTranslator scans textures dumped from game ROMs, detects words with
 Afterwards it implements the texture into the game.
 
 # Technology Used
--Python 3.11
+- Python 3.11
 - Pillow (PIL)
 - EasyOCR
 - deep-translator
