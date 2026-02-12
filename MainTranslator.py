@@ -1,8 +1,8 @@
 """
 Author: Davion Franklin <csdavio>
-@Date: 2026-01-14
-@Email: davionfranklin2004@gmail.com
-@LastUpdate: 2026-02-01
+Date: 2026-01-14
+Email: davionfranklin2004@gmail.com
+LastUpdate: 2026-02-01
 
 Description:
 Automates extraction, translation, and reinsertion of in-game text 
@@ -127,6 +127,7 @@ def main():
                 generate_image(texture_path, new_textures_path, translated_text)
 
 main()
+
 
 
 
