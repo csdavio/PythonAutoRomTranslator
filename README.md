@@ -1,3 +1,5 @@
 # PythonAutoRomTranslator
-Python script that mass translates images. Intended to be used for translating PSP roms that use in game text.
-This version is specifically tailored toward the Metal Fight PSP game.
+# Developed in PyCharm Community Edition 2024.3.1.1 using Python 3.11
+# Tested on Windows.
+
+Python script that mass translates extracted text images from games.
