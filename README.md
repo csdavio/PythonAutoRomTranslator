@@ -19,7 +19,7 @@ Windows
 (PyCharm Community Edition 2024.3.1.1 used for development)
 
 # Instructions
-- Ensure you have the folers and Python script in the same folder.
+- Ensure you have the folders and Python script in the same folder.
 - Install dependencies.
 - Run the python script.
 - Translated text will be saved in the "NewTextures" folder
