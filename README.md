@@ -12,7 +12,7 @@ Afterwards it implements the texture into the game.
 - deep-translator
 
 # Status
-Early development - core pipeline is funcitonal, optimzation and UI improvements planned.
+Early development - core pipeline is functional, optimzation and UI improvements planned.
 
 # Tested On
 Windows
